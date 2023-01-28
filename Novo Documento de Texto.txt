@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-dsds
+linha de comando 1
 
-dfdf
-df
-=======
-dddddsds
->>>>>>> 2656e765d40791102a7b1946454604eb30183837
+linha de comando 2
